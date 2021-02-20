@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap.finance/',
+    href: 'http://wifeswap.finance/',
   },
   {
     label: 'Trade',
@@ -24,22 +24,22 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap.finance/farms',
+    href: 'http://wifeswap.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswap.finance/syrup',
+    href: 'http://wifeswap.finance/syrup',
   },
   {
     label: 'Lottery',
     icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery',
+    href: 'http://wifeswap.finance/lottery',
   },
   {
     label: 'NFT',
     icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft',
+    href: 'http://wifeswap.finance/nft',
   },
   {
     label: 'Teams & Profile',
@@ -48,15 +48,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Leaderboard',
-        href: 'https://pancakeswap.finance/teams',
+        href: 'http://wifeswap.finance/teams',
       },
       {
         label: 'Task Center',
-        href: 'https://pancakeswap.finance/profile/tasks',
+        href: 'http://wifeswap.finance/profile/tasks',
       },
       {
         label: 'Your Profile',
-        href: 'https://pancakeswap.finance/profile',
+        href: 'http://wifeswap.finance/profile',
       },
     ],
   },
@@ -85,7 +85,7 @@ const config: MenuEntry[] = [
   {
     label: 'IFO',
     icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo',
+    href: 'http://wifeswap.finance/ifo',
   },
   {
     label: 'More',
@@ -93,7 +93,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
+        href: 'https://voting.wifeswap.finance',
       },
       {
         label: 'Github',
@@ -101,11 +101,11 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://docs.pancakeswap.finance',
+        href: 'https://docs.wifeswap.finance',
       },
       {
         label: 'Blog',
-        href: 'https://pancakeswap.medium.com',
+        href: 'https://wifeswap.medium.com',
       },
     ],
   },
